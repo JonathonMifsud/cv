@@ -17,7 +17,7 @@ contact:
     opts: "regular"
     mono: false
   - text: "Website"
-    link: "JonathonMifsud.github.io"
+    link: "https://jonathonmifsud.github.io"
     icon: "Globe"
     mono: true
   - text: "JonathonMifsud"
